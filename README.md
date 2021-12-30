@@ -13,9 +13,9 @@ The highest number of successful theater fundraiser campaigns were launched in M
 
 <img align="right" src="https://github.com/ajcurtis916/kickstarter-analysis/blob/main/resources/outcomes_vs_goals.png" width="350" />
 Theater fundraiser campaign goals less than $1,000 were the most successful.  More or less intuitively, the lower the fundraising goal amount, the more likely the fundraiser was "successful."  The percentage of successful fundraisers and failed fundraisers, based on fundraising goals set, trended inverse of each other. 
-</br></br>
+</br></br></br>
 
 Potential shortcomings may arise in our analysis of Outcomes vs Launch due to the graph not including years.  This may bear some weight on the fundraiser outcomes if there was a particularly good or bad year for any given month.  Potential shortcomings may also arise due to the data being displayed in number of fundraisers considered successful, failed or canceled for each month, and not as a percentage successful, failed or canceled per total number of fundraisers launched within each month.  It may be helpful to analyze futher and create a line graph dispalying such trends.
-</br></br>
+</br>
 
 Potential shortcomings may also arise in our analysis of Outcomes vs Goals due to the bulk of the data being contained within the range of $0-$9,999, especially within $1,000 to $4,999.  It may be helpful to breakup that set of data into even smaller ranges and explore further.  
